@@ -21,6 +21,8 @@ namespace ObjectAssignment
 		int yLength = (Y1 - Y2) * (Y1 - Y2);
 		int Length = xLength + yLength;
 		Console.WriteLine("X and Y lie length is :- " + Length);
+
+		Console.WriteLine("X and Y lie length is :- " + Length);
 	    
 		}
     }
